@@ -11,7 +11,8 @@ This project was created by a group of students from **SEUSL - Department of Inf
 **Library Management System (LMS)** for the Department of Information Technology at SEUSL.
 This group project automates library operations, streamlining book management, student tracking, and report generation. Developed with **PHP**, **HTML**, **CSS**, and **MySQL**, it enhances efficiency and minimizes errors in library processes. Contributions and feedback are welcome!
 
- ⚠ Note
+ ####⚠ Note
+ 
 This project is for **academic purposes only**.  
 Do **not copy, reuse, or publish** this code without written permission from all contributors.
 
