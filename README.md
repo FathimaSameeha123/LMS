@@ -1,8 +1,8 @@
 # Group Project: Library Management System (LMS)
 
-This project was created by a group of students from *SEUSL - Department of Information Technology* as part of our academic coursework.
+This project was created by a group of students from **SEUSL - Department of Information Technology** as part of our academic coursework.
 
-# Team Members
+### Team Members
 - Fathima Sameeha  
 - Fathima Shifna
 - S. Danusthika
@@ -15,7 +15,7 @@ This group project automates library operations, streamlining book management, s
 This project is for **academic purposes only**.  
 Do **not copy, reuse, or publish** this code without written permission from all contributors.
 
-# Technologies Used
+### Technologies Used
 - PHP  
 - HTML  
 - CSS  
